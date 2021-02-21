@@ -1,0 +1,6 @@
+{"_id":{"$oid":"602fe82ef402b1c2b2d0f5b1"},"sucursal":"A","nombre":"Cafe Legal","codigo_barras":"100010","cantidad":5,"precio":7}
+{"_id":{"$oid":"6032066ddf542b348886e56c"},"sucursal":"B","nombre":"Cafe Legal","codigo_barras":"100010","cantidad":8,"precio":7,"__v":0}
+{"_id":{"$oid":"603207691edd332248640507"},"sucursal":"A","nombre":"Chocolate Abuelita","codigo_barras":"100011","cantidad":6,"precio":15,"__v":0}
+{"_id":{"$oid":"603207901edd332248640508"},"sucursal":"A","nombre":"Bonafina","codigo_barras":"100012","cantidad":1,"precio":12,"__v":0}
+{"_id":{"$oid":"603208941edd332248640509"},"sucursal":"B","nombre":"Chocolate Abuelita","codigo_barras":"100011","cantidad":4,"precio":15,"__v":0}
+{"_id":{"$oid":"603208ac1edd33224864050a"},"sucursal":"B","nombre":"Bonafina","codigo_barras":"100012","cantidad":2,"precio":12,"__v":0}
